@@ -1,6 +1,7 @@
 {
   "name": "@diploy/core",
   "version": "1.0.0",
+  "type": "module",
   "description": "Core utilities and branding for Diploy WhatsApp Marketing Platform",
   "main": "index.ts",
   "types": "index.ts",
